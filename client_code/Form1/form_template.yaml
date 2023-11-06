@@ -12,6 +12,10 @@ components:
     properties: {text: hoi}
     type: Label
     layout_properties: {grid_position: 'DNQOUK,CPTGJF'}
+  - name: label_2
+    properties: {text: hi hlo}
+    type: Label
+    layout_properties: {grid_position: 'RHKVUU,OUUMIP'}
 - type: FlowPanel
   properties: {}
   name: navbar_links
